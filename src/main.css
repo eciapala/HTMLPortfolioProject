@@ -1,16 +1,21 @@
 .header {
-
+  text-align: center;
+  font-family:  'Helvetica Neue', Arial;
 }
 
-tagline {
-
+.tagline {
+  background-color: #F5F5F5;
+  width: 500px;
+  margin: 0 auto;
 }
 
-skills {
-
+.skills {
+  width: 500px;
+  margin: 0 auto;
 }
 
-contact {
+.contact {
+  background-color: #F5F5F5;
   width: 500px;
   margin: 0 auto;
 }
